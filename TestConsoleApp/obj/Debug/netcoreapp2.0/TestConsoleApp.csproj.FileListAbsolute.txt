@@ -1,0 +1,22 @@
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.deps.json
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.runtimeconfig.json
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.runtimeconfig.dev.json
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.dll
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.pdb
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.AssemblyInfo.cs
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.dll
+C:\Users\Phillip\Documents\Visual Studio 2017\Projects\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.pdb
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.deps.json
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.runtimeconfig.json
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.runtimeconfig.dev.json
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.dll
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.pdb
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.AssemblyInfo.cs
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.dll
+C:\Users\Phillip\Source\Repos\MicroServicesAndContainers\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.pdb
