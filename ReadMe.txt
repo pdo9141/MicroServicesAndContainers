@@ -1,3 +1,4 @@
+Micro Services
 01) Leveraging micro services allows you to deployment and version services independently without affecting other parts of the system.
 02) Each service should have it's own database and data model. They can be written in any language and use any type of DB (SQL or NOSQL)
 03) A microservice should handle one type of business capability
@@ -36,3 +37,17 @@
 	Keep dev, staging, & prod environments similar
 	Log to stdout (dev=console, prod=file & archive it)
 	Deploy & run admin tasks (scripts) as processes
+
+Containers
+01) PC: Hardware not shared, Kernel not shared, System Resources (e.g., File System) not shared
+02) VM: Hardware shared, Kernel not shared, System Resources (e.g., File System) not shared
+03) Container: Hardware shared, Kernel shared, System Resources (e.g., File System) not shared
+04) Process: Hardware shared, Kernel shared, System Resources (e.g., File System) shared
+05) What is a container?
+	Slices up the OS to run multiple apps on a single PC/VM
+	Every container gets its own root directory, network interface, own process id
+	Allows a versioned set of dependencies (components, runtimes, etc.) to run side by side with another set of dependences in an isolated runtime environment on the same PC/VM
+06) Docker
+	There's a client (communicates with the daemon) and server
+	You can pull down Docker images from a repository (Docker Hub)
+	Start and stop Docker containers in the command line
